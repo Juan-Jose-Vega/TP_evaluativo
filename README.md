@@ -24,4 +24,4 @@ El código se encuentra organizado de forma modular en los siguientes archivos:
 ### 1. Clonar el repositorio
 Descarga una copia exacta de este proyecto a tu computadora ejecutando en tu terminal:
 ```bash
-git clone [https://github.com/Juan-Jose-Vega/TP_node.git](https://github.com/Juan-Jose-Vega/TP_node.git)
+git clone [https://github.com/Juan-Jose-Vega/TP_evaluativo.git](https://github.com/Juan-Jose-Vega/TP_evaluativo.git)
